@@ -5,7 +5,7 @@
 
 - 💻 Currently studying Data Science with **Python**/**BI**
 
-- 🧮  Libraries: Numpy, Spicy, Matplotlib, Pandas, Tkinter, Pyautogui, Openpyxl.
+- 🧮  Libraries: Numpy, Scipy, Matplotlib, Pandas, Tkinter, Pyautogui, Openpyxl.
 
 - 📫 You can reach me at **SouzaJrr0@gmail.com**
 
